@@ -57,5 +57,5 @@ const FILES_TO_CACHE = [
           return fetch(e.request)
         }
       })
-    )
-  })
+    );
+  });
